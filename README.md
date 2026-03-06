@@ -28,4 +28,4 @@ docker pull ghcr.io/ahrefdisha/sql_1612:v1
 Technologies Used
 Docker
 MySQL
-GitHub Container Registry
+
